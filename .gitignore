@@ -1,0 +1,6 @@
+*.jar
+*.xml
+*.yml
+*.txt
+*.sh
+**/
