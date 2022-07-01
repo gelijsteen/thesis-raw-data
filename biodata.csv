@@ -1,4 +1,4 @@
-TestCase,rTDATA,IMC,ICC,IPC,DPHC,rDirectness.tLOC,aLOC,UT,NKM,NSM,dNKM,dNSM,MutationScore,dMutationScore
+TestCase,rTDATA,IMC,ICC,IPC,DPHC,rDirectness,tLOC,aLOC,UT,NKM,NSM,dNKM,dNSM,MutationScore,dMutationScore
 org.opencb.biodata.tools.variant.simulator.VariantSimulatorTest.testSimulate2,0,0,0,0,0,0.00,2,0,0,0,0,0,0,0.00,0.00
 org.opencb.biodata.tools.variant.VariantNormalizerTest.testNormalizeBND,1,27,3,1,1,0.42,43,363,1,715,207,6,15,0.78,0.29
 org.opencb.biodata.tools.variant.VariantNormalizerTest.testNormalizeMultiAllelicSnpIndel,3,42,4,2,1,0.45,105,479,1,756,767,0,30,0.50,0.00
